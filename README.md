@@ -1,6 +1,6 @@
 # DevOps Mentorship Program: By [Loalhost Nigeria](https://www.joinlocalhost.com/)
 
-This repository contains an overview of trainings and mentorship received, assigend task and solutions in a 12 weeks intensuve DevOps mentorship program organized by one of Africa's leading DevOps trainer orgenization Localhost Nigeria.
+This repository contains an overview of trainings and mentorship received, assigend task and solutions in a 12 weeks intensive DevOps mentorship program organized by one of Africa's leading DevOps trainer organization Localhost Nigeria.
 
 | Date | Training Curriculum/Trainer | Description	| Assigned Task|
 |--------- | ----------------------- |----------------- | -------------  | 
